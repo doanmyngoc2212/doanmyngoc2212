@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a student in Software Engineering at Charles Darwin University
+🔭 I’m currently a student in Software Engineering at Charles Darwin University
 
